@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Creating Function
 function find(){
     if [ -e /etc/shadow ];
     then
